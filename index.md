@@ -2,7 +2,7 @@
 # 👋 Bienvenue
 
 Je suis **Narcisse Kotcholé ATTIOU**, passionné par l’intelligence artificielle,  
-les mathématiques, le machine learning, la robotique et la cybersécurité.
+les mathématiques, le machine learning et la robotique.
 
 🎓 Ce blog est orienté **apprentissage et recherche**.
 
