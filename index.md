@@ -11,6 +11,6 @@ les mathématiques, le machine learning et la robotique.
 - Mathématiques appliquées
 - Machine Learning & Deep Learning
 - Robotique intelligente
-- Cybersécurité
+  
 
 👉 Retrouvez mes articles ci-dessous.
