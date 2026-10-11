@@ -57,7 +57,7 @@ Co-founder & Head of Architecture and Development. A YouTube and TikTok-inspired
 I want to build a career at the intersection of mathematics, AI, and technology, with the long-term goal of contributing to education, innovation, and digital development in Africa.
 
 ### Contact
-- 📧 Email: [kotcholenarcissea@gmail.com](mailto:kotcholenarcissea@gmail.com)
+- 📧 [Get in touch](mailto:kotcholenarcissea@gmail.com)
 - 📍 Location: Abomey-Calavi, Benin
 - 🐙 GitHub: [ATTIOU19](https://github.com/ATTIOU19)
 
