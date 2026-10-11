@@ -11,9 +11,9 @@
 ---
 
 ### About me
-I am a graduate in fundamental mathematics, passionate about mathematical modeling, artificial intelligence, and computer vision. My work is driven by curiosity, problem-solving, and the desire to use technology for positive impact.
+I am a graduate in fundamental mathematics, passionate about mathematical modeling, artificial intelligence, and computer vision. My work is driven by curiosity, problem-solving, and the desire to[...]
 
-I am currently preparing for engineering studies, with a strong interest in AI, data science, machine learning, and applied mathematics. I also lead projects and mentor students in STEM and AI-related fields.
+I am currently preparing for engineering studies, with a strong interest in AI, data science, machine learning, and applied mathematics. I also lead projects and mentor students in STEM and AI-rel[...]
 
 ### My profile
 - Graduate in Mathematics
@@ -24,14 +24,14 @@ I am currently preparing for engineering studies, with a strong interest in AI, 
 
 ### Featured Projects
 
-#### 🔬 **Maths4World**
+#### 🔬 **[Maths4World](https://maths4worldpro-app.vercel.app/)**
 An educational initiative dedicated to making mathematics and AI accessible to students through innovative learning tools:
 - **Interview Module**: Conduct personalized interviews on mathematical concepts to evaluate how users express their understanding of key notions
 - **Maths-Career Module**: Guide users to identify which mathematical concepts are essential for their desired career path across 14+ professional domains
 - Mentorship, workshops, and practical projects bridging the gap between theoretical knowledge and real-world applications
 
-#### 🚀 **STEMFLOW**
-Co-founder & Head of Architecture and Development. A YouTube and TikTok-inspired platform designed to make STEM more accessible through short-form content, competitions, collaborative spaces, and live sessions. Democratizing STEM education for everyone.
+#### 🚀 **[STEMFLOW](https://stem-flow-rho.vercel.app/)**
+Co-founder & Head of Architecture and Development. A YouTube and TikTok-inspired platform designed to make STEM more accessible through short-form content, competitions, collaborative spaces, and [...]
 
 ### Skills
 - Mathematics: Algebra, Analysis, Probability, Statistics, Optimization
