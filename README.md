@@ -2,10 +2,18 @@
 
 ## Mathematics · AI · Computer Vision
 
-### About me
-I am a graduate in fundamental mathematics, passionate about mathematical modeling, artificial intelligence, and computer vision. My work is driven by curiosity, problem-solving, and the desire to use technology to create meaningful impact, especially in education and innovation in Africa.
+---
 
-I am currently preparing for engineering studies, with a strong interest in AI, data science, machine learning, and applied mathematics. I also lead projects and mentor students in STEM and AI-related activities.
+> **"Education does not change the world. Education changes people. People change the world."**
+> 
+> — Paulo Freire
+
+---
+
+### About me
+I am a graduate in fundamental mathematics, passionate about mathematical modeling, artificial intelligence, and computer vision. My work is driven by curiosity, problem-solving, and the desire to use technology for positive impact.
+
+I am currently preparing for engineering studies, with a strong interest in AI, data science, machine learning, and applied mathematics. I also lead projects and mentor students in STEM and AI-related fields.
 
 ### My profile
 - Graduate in Mathematics
@@ -13,6 +21,14 @@ I am currently preparing for engineering studies, with a strong interest in AI, 
 - Founder of Maths4World
 - Passionate about scientific education and digital transformation
 - Strong interest in mathematical modeling and intelligent systems
+
+### Featured Projects
+
+#### 🔬 **Maths4World**
+An educational initiative dedicated to making mathematics and AI accessible to students across Africa. Through mentorship, workshops, and practical projects, we bridge the gap between theoretical knowledge and real-world applications.
+
+#### 🤖 **[Your Second Project Name]**
+[Brief description of your second project - please provide details so I can complete this section accurately]
 
 ### Skills
 - Mathematics: Algebra, Analysis, Probability, Statistics, Optimization
