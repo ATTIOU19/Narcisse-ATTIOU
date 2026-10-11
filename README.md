@@ -18,7 +18,7 @@ I am currently preparing for engineering studies, with a strong interest in AI, 
 ### My profile
 - Graduate in Mathematics
 - Interested in AI, Machine Learning, Deep Learning, and Computer Vision
-- Founder of Maths4World & STEMFLOW
+- Founder of Maths4World & Co - Founder of STEMFLOW
 - Passionate about scientific education and digital transformation
 - Strong interest in mathematical modeling and intelligent systems
 
