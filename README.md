@@ -18,17 +18,20 @@ I am currently preparing for engineering studies, with a strong interest in AI, 
 ### My profile
 - Graduate in Mathematics
 - Interested in AI, Machine Learning, Deep Learning, and Computer Vision
-- Founder of Maths4World
+- Founder of Maths4World & STEMFLOW
 - Passionate about scientific education and digital transformation
 - Strong interest in mathematical modeling and intelligent systems
 
 ### Featured Projects
 
 #### 🔬 **Maths4World**
-An educational initiative dedicated to making mathematics and AI accessible to students across Africa. Through mentorship, workshops, and practical projects, we bridge the gap between theoretical knowledge and real-world applications.
+An educational initiative dedicated to making mathematics and AI accessible to students through innovative learning tools:
+- **Interview Module**: Conduct personalized interviews on mathematical concepts to evaluate how users express their understanding of key notions
+- **Maths-Career Module**: Guide users to identify which mathematical concepts are essential for their desired career path across 14+ professional domains
+- Mentorship, workshops, and practical projects bridging the gap between theoretical knowledge and real-world applications
 
-#### 🤖 **[Your Second Project Name]**
-[Brief description of your second project - please provide details so I can complete this section accurately]
+#### 🚀 **STEMFLOW**
+Co-founder & Head of Architecture and Development. A YouTube and TikTok-inspired platform designed to make STEM more accessible through short-form content, competitions, collaborative spaces, and live sessions. Democratizing STEM education for everyone.
 
 ### Skills
 - Mathematics: Algebra, Analysis, Probability, Statistics, Optimization
