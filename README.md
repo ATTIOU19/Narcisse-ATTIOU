@@ -11,9 +11,9 @@
 ---
 
 ### About me
-I am a graduate in fundamental mathematics, passionate about mathematical modeling, artificial intelligence, and computer vision. My work is driven by curiosity, problem-solving, and the desire to[...]
+I am a graduate in fundamental mathematics, passionate about mathematical modeling, artificial intelligence, and computer vision. My work is driven by curiosity, problem-solving, and the desire to use mathematics to solve real-world challenges through intelligent and innovative systems.
 
-I am currently preparing for engineering studies, with a strong interest in AI, data science, machine learning, and applied mathematics. I also lead projects and mentor students in STEM and AI-rel[...]
+I am currently preparing for engineering studies, with a strong interest in AI, data science, machine learning, and applied mathematics. I also lead projects and mentor students in STEM and AI-related fields, helping them develop both technical skills and a passion for scientific exploration.
 
 ### My profile
 - Graduate in Mathematics
@@ -31,7 +31,7 @@ An educational initiative dedicated to making mathematics and AI accessible to s
 - Mentorship, workshops, and practical projects bridging the gap between theoretical knowledge and real-world applications
 
 #### 🚀 **[STEMFLOW](https://stem-flow-rho.vercel.app/)**
-Co-founder & Head of Architecture and Development. A YouTube and TikTok-inspired platform designed to make STEM more accessible through short-form content, competitions, collaborative spaces, and [...]
+Co-founder & Head of Architecture and Development. A YouTube and TikTok-inspired platform designed to make STEM more accessible through short-form content, competitions, collaborative spaces, and practical learning experiences for students and young creators.
 
 ### Skills
 - Mathematics: Algebra, Analysis, Probability, Statistics, Optimization
